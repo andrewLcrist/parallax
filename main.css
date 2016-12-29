@@ -29,12 +29,6 @@ section.container.static {
 section.container.parallax {
   padding: 240px 0;
   background-position: 0 ,0;
-
-  /* height: 600px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  background-attachment: fixed;*/
 }
 
 section.container.parallax h1 {
@@ -46,23 +40,18 @@ section.container.parallax h1 {
   text-transform: uppercase;
   color: rgba(255,255,255,0.8);
   font-family: sans-serif;
-  text-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
 section.container.parallax-1 {
-  background-image: url('./images/bg_1.jpeg')
+  background-image: url('./images/1.jpg')
 }
 
 section.container.parallax-2 {
-  background-image: url('./images/bg_2.jpeg')
+  background-image: url('./images/2.jpg')
 }
 
 section.container.parallax-3 {
-  background-image: url('./images/bg_3.jpeg')
-}
-
-section.container.parallax-4 {
-  background-image: url('./images/bg_4.jpeg')
+  background-image: url('./images/3.jpg')
 }
 
 
